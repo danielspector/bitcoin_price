@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'bit_price'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.executables << 'bit_price'
   s.date        = '2014-02-12'
   s.summary     = "Bitcoin Prices from Your Terminal"

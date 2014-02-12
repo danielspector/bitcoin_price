@@ -16,8 +16,6 @@ Run the file by typing
 bit_price
 ```
 
-Todo:
+Try it out and see how you like it! Fork and submit your Pull Requests and please open an issue for anything you might find.
 
-Manage gem dependencies - The gem currently requires Nokogiri. I have not yet figured out how to properly require depencies not installed on another person's computer.
-
-Add functionality to grab prices from multiple sites.
+Thanks for stopping by!
